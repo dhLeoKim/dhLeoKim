@@ -1,4 +1,6 @@
-### Hi there 👋
+# 1 잘하는 개발자
+
+[![donghyunKim GitHub stats](https://github-readme-stats.vercel.app/api?username=dhLeoKim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dhLeoKim/dhLeoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
