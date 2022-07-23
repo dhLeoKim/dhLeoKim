@@ -1,4 +1,4 @@
-# 1 잘하는 개발자
+# 멋지게 성장중...
 
 [![donghyunKim GitHub stats](https://github-readme-stats.vercel.app/api?username=dhLeoKim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
